@@ -25,4 +25,4 @@ button1.place(x = 75,y = 80)
 text1 = Text(window,relief = 'groove',bd=3,bg = 'skyblue')
 text1.pack(pady = 10)       
 
-root.mainloop()
+window.mainloop()
